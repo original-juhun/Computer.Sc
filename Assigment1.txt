@@ -1,5 +1,5 @@
 1.Convert the following numbers from binary to decimal.
 a) 1001100 4+8+64 = 76
 b) 11101 1+4+8+16 = 29
-c) 101001 1+4+16 = 21
+c) 101001 1+8+32 = 41
 d) 1010111 1+2+4+16+64 = 87
